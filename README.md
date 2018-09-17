@@ -8,3 +8,6 @@
 
  2, change the html file save path
  Just need to change the string in line 9(Htmlpath)
+
+# Some errors:
+ It will broken if it running on Python version > 3.5
